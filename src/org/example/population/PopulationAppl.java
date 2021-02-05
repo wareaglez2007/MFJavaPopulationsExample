@@ -23,9 +23,9 @@ public class PopulationAppl {
 		// on the Mainframe
 		// ---->START IN MAIN And DESIGN HERE
 		// get the properties,
-		String configFileName = "config.properties"; 
+		//String configFileName = "config.properties";  CONTSTANT DECLARED IN FlePrpoerties Class
 		//Instantiate FileProperties entity class
-		FileProperties config = new FileProperties(configFileName);
+		FileProperties config = new FileProperties();
 		
 		// Open input file (Reader action class)
 		PopulationFileReader popReader = new PopulationFileReader();

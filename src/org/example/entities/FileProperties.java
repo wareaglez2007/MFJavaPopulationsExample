@@ -13,19 +13,19 @@ public class FileProperties {
 	// output.dir=results
 	// output.file=PopulationReport.txt
 	// cutoff=3
-
+	final static String CONFIGFILE = "config.properties";
 	private String inputDir;
 	private String inputFile;
 	private String outputDir;
 	private String outputFile;
 	private int cutoff;
 
-	public FileProperties(String configFileName) {
+	public FileProperties() {
 		// Read properties "config.properties"
 		Properties prop = null;
 		try {
 			prop = new Properties();
-			InputStream input = new FileInputStream(configFileName);
+			InputStream input = new FileInputStream(CONFIGFILE);
 
 			prop.load(input);
 		} catch (IOException e) {
