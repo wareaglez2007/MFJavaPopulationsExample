@@ -1,0 +1,31 @@
+
+Java Coding Assignment 3:
+        
+ The data file: POP.csv
+ contains the following fields:
+     Country Code
+     Population ranking
+     Country Name
+     Population (in 1000's)
+
+Please create an output file, listing all
+  countries with a population over 3 million
+  The output file should include
+  contain following format:
+  
+  a fixed format file:
+    35 char, right justified, country name
+    " - "
+    3 char country code
+    ":"
+    the population 
+  
+  
+  I suggest you look at the String.format method
+  for help formating the output
+    
+    
+ Please run this code on your PC, then run it
+ on the Mainframe
+ 
+ 

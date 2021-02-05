@@ -1,0 +1,136 @@
+1  .                               China - CHN : 1,378,665,000
+2  .                               India - IND : 1,324,171,000
+3  .                       United States - USA : 323,128,000
+4  .                           Indonesia - IDN : 261,115,000
+5  .                              Brazil - BRA : 207,653,000
+6  .                            Pakistan - PAK : 193,203,000
+7  .                             Nigeria - NGA : 185,990,000
+8  .                          Bangladesh - BGD : 162,952,000
+9  .                  Russian Federation - RUS : 144,342,000
+10 .                              Mexico - MEX : 127,540,000
+11 .                               Japan - JPN : 126,995,000
+12 .                         Philippines - PHL : 103,320,000
+13 .                            Ethiopia - ETH : 102,403,000
+14 .                               Egypt - EGY : 95,689,000
+15 .                             Vietnam - VNM : 94,569,000
+16 .                             Germany - DEU : 82,488,000
+17 .                                Iran - IRN : 80,277,000
+18 .                              Turkey - TUR : 79,512,000
+19 .                     Congo Dem. Rep. - COD : 78,736,000
+20 .                            Thailand - THA : 68,864,000
+21 .                              France - FRA : 66,892,000
+22 .                      United Kingdom - GBR : 65,596,000
+23 .                               Italy - ITA : 60,627,000
+24 .                        South Africa - ZAF : 56,015,000
+25 .                            Tanzania - TZA : 55,572,000
+26 .                             Myanmar - MMR : 52,885,000
+27 .                         South Korea - KOR : 51,246,000
+28 .                            Colombia - COL : 48,653,000
+29 .                               Kenya - KEN : 48,462,000
+30 .                               Spain - ESP : 46,485,000
+31 .                             Ukraine - UKR : 45,005,000
+32 .                           Argentina - ARG : 43,847,000
+33 .                              Uganda - UGA : 41,488,000
+34 .                             Algeria - DZA : 40,606,000
+35 .                               Sudan - SDN : 39,579,000
+36 .                              Poland - POL : 37,970,000
+37 .                                Iraq - IRQ : 37,203,000
+38 .                              Canada - CAN : 36,265,000
+39 .                             Morocco - MAR : 35,277,000
+40 .                         Afghanistan - AFG : 34,656,000
+41 .                        Saudi Arabia - SAU : 32,276,000
+42 .                          Uzbekistan - UZB : 31,848,000
+43 .                                Peru - PER : 31,774,000
+44 .                           Venezuela - VEN : 31,568,000
+45 .                            Malaysia - MYS : 31,187,000
+46 .                               Nepal - NPL : 28,983,000
+47 .                          Mozambique - MOZ : 28,829,000
+48 .                              Angola - AGO : 28,813,000
+49 .                               Ghana - GHA : 28,207,000
+50 .                               Yemen - YEM : 27,584,000
+51 .                         North Korea - PRK : 25,369,000
+52 .                          Madagascar - MDG : 24,895,000
+53 .                           Australia - AUS : 24,211,000
+54 .                      Côte d'Ivoire - CIV : 23,696,000
+55 .                            Cameroon - CMR : 23,439,000
+56 .                           Sri Lanka - LKA : 21,203,000
+57 .                               Niger - NER : 20,673,000
+58 .                             Romania - ROU : 19,699,000
+59 .                        Burkina Faso - BFA : 18,646,000
+60 .                Syrian Arab Republic - SYR : 18,430,000
+61 .                              Malawi - MWI : 18,092,000
+62 .                                Mali - MLI : 17,995,000
+63 .                               Chile - CHL : 17,910,000
+64 .                          Kazakhstan - KAZ : 17,794,000
+65 .                         Netherlands - NLD : 17,030,000
+66 .                              Zambia - ZMB : 16,591,000
+67 .                           Guatemala - GTM : 16,582,000
+68 .                             Ecuador - ECU : 16,385,000
+69 .                            Zimbabwe - ZWE : 16,150,000
+70 .                            Cambodia - KHM : 15,762,000
+71 .                             Senegal - SEN : 15,412,000
+72 .                                Chad - TCD : 14,453,000
+73 .                             Somalia - SOM : 14,318,000
+74 .                              Guinea - GIN : 12,396,000
+75 .                         South Sudan - SSD : 12,231,000
+76 .                              Rwanda - RWA : 11,918,000
+77 .                                Cuba - CUB : 11,476,000
+78 .                             Tunisia - TUN : 11,403,000
+79 .                             Belgium - BEL : 11,338,000
+80 .                             Bolivia - BOL : 10,888,000
+81 .                               Benin - BEN : 10,872,000
+82 .                               Haiti - HTI : 10,847,000
+83 .                              Greece - GRC : 10,771,000
+84 .                  Dominican Republic - DOM : 10,649,000
+85 .                      Czech Republic - CZE : 10,566,000
+86 .                             Burundi - BDI : 10,524,000
+87 .                            Portugal - PRT : 10,325,000
+88 .                              Sweden - SWE : 9,923,000
+89 .                             Hungary - HUN : 9,814,000
+90 .                          Azerbaijan - AZE : 9,758,000
+91 .                             Belarus - BLR : 9,502,000
+92 .                              Jordan - JOR : 9,456,000
+93 .                United Arab Emirates - ARE : 9,270,000
+94 .                            Honduras - HND : 9,113,000
+95 .                          Tajikistan - TJK : 8,735,000
+96 .                             Austria - AUT : 8,731,000
+97 .                              Israel - ISR : 8,546,000
+98 .                         Switzerland - CHE : 8,372,000
+99 .                    Papua New Guinea - PNG : 8,085,000
+100.                                Togo - TGO : 7,606,000
+101.                        Sierra Leone - SLE : 7,396,000
+102.                           Hong Kong - HKG : 7,337,000
+103.                            Bulgaria - BGR : 7,128,000
+104.                              Serbia - SRB : 7,058,000
+105.                             Lao PDR - LAO : 6,758,000
+106.                            Paraguay - PRY : 6,725,000
+107.                         El Salvador - SLV : 6,345,000
+108.                               Libya - LBY : 6,293,000
+109.                           Nicaragua - NIC : 6,150,000
+110.                     Kyrgyz Republic - KGZ : 6,080,000
+111.                             Lebanon - LBN : 6,007,000
+112.                             Denmark - DNK : 5,728,000
+113.                        Turkmenistan - TKM : 5,663,000
+114.                           Singapore - SGP : 5,607,000
+115.                             Finland - FIN : 5,495,000
+116.                     Slovak Republic - SVK : 5,431,000
+117.                              Norway - NOR : 5,236,000
+118.                               Congo - COG : 5,126,000
+119.                             Eritrea - ERI : 4,955,000
+120.                          Costa Rica - CRI : 4,857,000
+121.                             Ireland - IRL : 4,750,000
+122.                         New Zealand - NZL : 4,693,000
+123.                             Liberia - LBR : 4,614,000
+124.            Central African Republic - CAF : 4,595,000
+125.                  West Bank and Gaza - PSE : 4,552,000
+126.                                Oman - OMN : 4,425,000
+127.                          Mauritania - MRT : 4,301,000
+128.                             Croatia - HRV : 4,174,000
+129.                              Kuwait - KWT : 4,053,000
+130.                              Panama - PAN : 4,034,000
+131.                             Georgia - GEO : 3,719,000
+132.                             Moldova - MDA : 3,552,000
+133.              Bosnia and Herzegovina - BIH : 3,517,000
+134.                             Uruguay - URY : 3,444,000
+135.                         Puerto Rico - PRI : 3,411,000
+136.                            Mongolia - MNG : 3,027,000
